@@ -1,0 +1,52 @@
+* {
+	margin:5;
+	padding:5;
+	box-sizing:border-box;
+}
+
+body {
+	font-family:"Open Sans", Helvetica, Arial, sans-serif;
+	font-weight:300;
+	font-size: 12px;
+	line-height:30px;
+	/* color: MI COLOR O IMAGEN; */
+	/* background: MI COLOR O IMAGEN; */
+}
+
+.container {
+	max-width:400px;
+	width:100%;
+	margin:0 auto;
+	position:relative;
+}
+
+/* todo el formulario */
+#formulario {
+	
+}
+
+#formulario h3 {
+	
+}
+
+#formulario h4 {
+	
+}
+
+fieldset {
+	border: medium none !important;
+	
+}
+
+#formulario .entrada {
+	
+}
+
+#formulario textarea {
+	
+}
+
+#formulario button {
+	cursor:pointer;
+	
+}
